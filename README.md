@@ -16,3 +16,8 @@ I have chosen the nrf52840 MCU as it has abundant GPIO pins for all the rows and
 I have added the antenna and clock circuitry for the MCU. I am also beggining to ponder what slikscreen art I want on my board.
 
 ![image](https://github.com/420Ayan420/wavelength-keyboard/assets/88883638/fd1883fc-9f10-48f0-98f0-a71898425b69)
+
+## session #4
+I have continued with the MCu circuitry and have added the second clock as per the datasheet, this one took some time as the datasheet is over 600 pages long!
+
+![image](https://github.com/420Ayan420/wavelength-keyboard/assets/88883638/81d2408b-34ca-4b56-a487-ff50f93be84a)
