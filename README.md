@@ -4,4 +4,5 @@ A custom ortholinear bluetooth mechanical keyboard with a left-sided numpad. Sup
 # sessions
 ## session #1
 Completed the layout for the keyboard, I am using ortholinear as it is more comfortable and natural to type on. Using [KLE](http://www.keyboard-layout-editor.com/) (keyboard layout editor) you can open the `layout.json` file to edit/view it to your needs.
-![keyboard layout](https://github.com/[420ayan420]/[wavelength-keyboard]/blob/[main]/layout.png?raw=true)
+
+![layout image](https://github.com/420Ayan420/wavelength-keyboard/assets/88883638/a785962a-c5f7-47fc-a740-ee8c2712e4de)
