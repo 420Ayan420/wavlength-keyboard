@@ -11,3 +11,8 @@ Completed the layout for the keyboard, I am using ortholinear as it is more comf
 I have chosen the nrf52840 MCU as it has abundant GPIO pins for all the rows and columns in my switch matrix, it also has built-in bluetooth support. Regarding the I have also chosen the [Choc v1](https://chosfox.com/products/kailh-chocs) switches as they are low profile and have hot-swap sockets.
 
 ![image](https://github.com/420Ayan420/wavelength-keyboard/assets/88883638/50d5ae8b-58b7-4289-b9a3-4063d9fa3b90)
+
+## session #3
+I have added the antenna and clock circuitry for the MCU. I am also beggining to ponder what slikscreen art I want on my board.
+
+![image](https://github.com/420Ayan420/wavelength-keyboard/assets/88883638/fd1883fc-9f10-48f0-98f0-a71898425b69)

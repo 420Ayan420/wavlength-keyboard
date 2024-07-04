@@ -2219,6 +2219,24 @@
 		(uuid "65b1e1f1-abba-4202-a94f-20ea8c5d83f3")
 	)
 	(junction
+		(at 129.54 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8436aa78-73b6-4ed7-ab29-814675aa7847")
+	)
+	(junction
+		(at 160.02 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be320301-2800-47a9-aa57-c3160e0472e4")
+	)
+	(junction
+		(at 129.54 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d117484b-fb20-4024-961d-0f545da6a906")
+	)
+	(junction
 		(at 44.45 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2273,6 +2291,16 @@
 			(type default)
 		)
 		(uuid "06d59904-feac-4bab-86c2-ac5cbe899467")
+	)
+	(wire
+		(pts
+			(xy 160.02 45.72) (xy 158.75 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0fcb199d-70a9-4802-8619-36a820be0a41")
 	)
 	(wire
 		(pts
@@ -2486,6 +2514,26 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 35.56) (xy 125.73 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "555e3e9e-4ba6-4b3d-aaa0-a7236b15b316")
+	)
+	(wire
+		(pts
+			(xy 158.75 35.56) (xy 160.02 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "566aa3be-71d8-4dd6-b2f3-db48d86e8df9")
+	)
+	(wire
+		(pts
 			(xy 119.38 154.94) (xy 120.65 154.94)
 		)
 		(stroke
@@ -2536,6 +2584,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 35.56) (xy 160.02 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6757a1e4-c174-459c-b2c7-21de34bac1ec")
+	)
+	(wire
+		(pts
 			(xy 119.38 76.2) (xy 120.65 76.2)
 		)
 		(stroke
@@ -2553,6 +2611,16 @@
 			(type default)
 		)
 		(uuid "7425fabc-276f-46a5-9c69-e9965a4c317f")
+	)
+	(wire
+		(pts
+			(xy 118.11 35.56) (xy 120.65 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "743374ab-10dd-4509-907f-f72f7eb5cde6")
 	)
 	(wire
 		(pts
@@ -2623,6 +2691,16 @@
 			(type default)
 		)
 		(uuid "7e8644eb-83ec-45a7-82db-d581f53e9758")
+	)
+	(wire
+		(pts
+			(xy 160.02 40.64) (xy 160.02 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8491bf5d-eeba-4cd0-9107-eac51dc22c82")
 	)
 	(wire
 		(pts
@@ -2726,6 +2804,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 43.18) (xy 125.73 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a638b83f-4025-4aa3-8650-0a9ff0799da0")
+	)
+	(wire
+		(pts
 			(xy 119.38 55.88) (xy 120.65 55.88)
 		)
 		(stroke
@@ -2733,6 +2821,16 @@
 			(type default)
 		)
 		(uuid "a78f79b4-2ee1-45b6-8c7b-59ce73dbcac9")
+	)
+	(wire
+		(pts
+			(xy 129.54 35.56) (xy 151.13 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7c3170f-9ff5-4a65-9c3d-1a783deba25b")
 	)
 	(wire
 		(pts
@@ -2746,6 +2844,26 @@
 	)
 	(wire
 		(pts
+			(xy 99.06 35.56) (xy 110.49 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9c6500d-87e4-46de-bb8c-ddbb948a195f")
+	)
+	(wire
+		(pts
+			(xy 119.38 45.72) (xy 129.54 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad362bb7-eaea-4ebe-9222-cd181c2afd6a")
+	)
+	(wire
+		(pts
 			(xy 88.9 179.07) (xy 102.87 179.07)
 		)
 		(stroke
@@ -2753,6 +2871,16 @@
 			(type default)
 		)
 		(uuid "b5d35f7c-42c0-4824-8505-1fe690144996")
+	)
+	(wire
+		(pts
+			(xy 125.73 35.56) (xy 125.73 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b63b60eb-43e9-41aa-9bb5-bd23d58596bd")
 	)
 	(wire
 		(pts
@@ -2806,6 +2934,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 45.72) (xy 151.13 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd3ca8e1-4eea-4168-aed8-0f677a488d5a")
+	)
+	(wire
+		(pts
 			(xy 119.38 111.76) (xy 120.65 111.76)
 		)
 		(stroke
@@ -2833,6 +2971,26 @@
 			(type default)
 		)
 		(uuid "c4be6eec-bd5e-432b-9367-e58ddf2046ba")
+	)
+	(wire
+		(pts
+			(xy 161.29 40.64) (xy 160.02 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc8ec7e8-4af7-45ae-a3b8-3227110727d6")
+	)
+	(wire
+		(pts
+			(xy 129.54 35.56) (xy 129.54 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd28f508-d0fd-44c2-89a8-ec9b55852a7c")
 	)
 	(wire
 		(pts
@@ -2903,6 +3061,16 @@
 			(type default)
 		)
 		(uuid "d94f58f5-894b-4e62-bc70-14947fb6eb92")
+	)
+	(wire
+		(pts
+			(xy 129.54 45.72) (xy 129.54 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e16755ea-94f8-4f50-b707-3d206b5324d8")
 	)
 	(wire
 		(pts
@@ -3218,6 +3386,26 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VDD_NRF"
+		(shape input)
+		(at 120.65 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "18997c4a-7584-4485-81bb-37af2366223b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 120.65 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -4182,6 +4370,73 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 154.94 35.56 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1259f881-dee2-49de-b654-19b906d6ad1d")
+		(property "Reference" "C6"
+			(at 154.94 29.1592 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "12pF"
+			(at 154.94 31.4706 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 151.13 36.5252 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 154.94 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 154.94 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5965abd0-ff5f-4b2a-bf54-b1bccbb7bf76")
+		)
+		(pin "1"
+			(uuid "8f4a3a01-25ea-47a7-a50a-1d1d52b2b716")
+		)
+		(instances
+			(project "wavelength keyboard v0.0"
+				(path "/9dfe989c-196b-4983-b8c2-217d3e2599c5"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 50.8 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4385,6 +4640,139 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 154.94 45.72 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2aa90bdb-1b60-49b2-bb66-49502dd55a6e")
+		(property "Reference" "C7"
+			(at 154.94 39.3192 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "12pF"
+			(at 154.94 41.6306 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 151.13 46.6852 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 154.94 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 154.94 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8d3f70ba-f9e1-42e7-99d2-354fba6431c2")
+		)
+		(pin "1"
+			(uuid "11ad09fc-9e6f-4e3e-a0dc-3c07c5f6ab24")
+		)
+		(instances
+			(project "wavelength keyboard v0.0"
+				(path "/9dfe989c-196b-4983-b8c2-217d3e2599c5"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "niche65_mk2_left-rescue:GND-power")
+		(at 161.29 40.64 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "31ba3e92-de1f-480d-bbbd-8a91248db1bd")
+		(property "Reference" "#PWR05"
+			(at 167.64 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 164.5412 40.513 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.29 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 161.29 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cc2c7548-510a-41f9-9ad6-69986d05de40")
+		)
+		(instances
+			(project "wavelength keyboard v0.0"
+				(path "/9dfe989c-196b-4983-b8c2-217d3e2599c5"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 34.29 101.6 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4445,6 +4833,73 @@
 			(project "wavelength keyboard v0.0"
 				(path "/9dfe989c-196b-4983-b8c2-217d3e2599c5"
 					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:L")
+		(at 114.3 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3f07d88e-9d5b-4d96-b305-3ebd7e0b9752")
+		(property "Reference" "L2"
+			(at 114.3 30.734 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uH"
+			(at 114.3 33.0454 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
+			(at 114.3 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 114.3 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Inductor"
+			(at 114.3 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "26d7c20b-14f3-4c45-bed9-9bfb2d9a50bf")
+		)
+		(pin "1"
+			(uuid "a735f186-a0f8-4bc5-a530-229ab280c1c4")
+		)
+		(instances
+			(project "wavelength keyboard v0.0"
+				(path "/9dfe989c-196b-4983-b8c2-217d3e2599c5"
+					(reference "L2")
 					(unit 1)
 				)
 			)
@@ -4932,6 +5387,75 @@
 			(project "wavelength keyboard v0.0"
 				(path "/9dfe989c-196b-4983-b8c2-217d3e2599c5"
 					(reference "Y1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Crystal")
+		(at 129.54 40.64 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "95e0b536-5e21-4559-a3b4-a0b622a8f718")
+		(property "Reference" "Y2"
+			(at 132.8674 39.4716 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "32.768kHz"
+			(at 132.8674 41.783 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm"
+			(at 129.54 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Two pin crystal"
+			(at 129.54 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a8ccf11a-3a49-4e7e-9ca5-63b444c8363f")
+		)
+		(pin "2"
+			(uuid "9b491f58-ffc9-477e-a67b-199975dc33b0")
+		)
+		(instances
+			(project "wavelength keyboard v0.0"
+				(path "/9dfe989c-196b-4983-b8c2-217d3e2599c5"
+					(reference "Y2")
 					(unit 1)
 				)
 			)
