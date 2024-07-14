@@ -6,6 +6,6 @@ I am using ortholinear as it is more comfortable and natural to type on, I am al
 
 ![layout image](https://github.com/420Ayan420/wavelength-keyboard/assets/88883638/266ece53-801a-4050-913e-34c41f0f44ee)
 
-## hardware
+# hardware
 I have chosen the nrf52840 MCU as it has abundant GPIO pins for all the rows and columns in my switch matrix, it also has built-in bluetooth support. Regarding the I have also chosen the [Choc v1](https://chosfox.com/products/kailh-chocs) switches as they are low profile and have hot-swap sockets.
 
