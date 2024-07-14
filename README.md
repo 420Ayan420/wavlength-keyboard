@@ -1,5 +1,4 @@
 # wavelength-keyboard
-![banner](https://github.com/user-attachments/assets/59476aed-7f22-40ab-b742-aee9d4aae3c9)
 A custom ortholinear bluetooth mechanical keyboard with a left-sided numpad. Supports low-profile Kalih Choc(olate) switches and has additional dev-connectors for accessing the MCU for other projects such as the [analog gauge based task manager](https://github.com/420Ayan420/analog-task-manager), etc.
 
 ![image](https://github.com/user-attachments/assets/310631fc-8799-4e38-b15b-945bce652cf2)
